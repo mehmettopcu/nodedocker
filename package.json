@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
+    "node-cmd": "^3.0.0",
     "ronin-mocks": "^0.1.6",
     "ronin-server": "^0.1.3"
   }
